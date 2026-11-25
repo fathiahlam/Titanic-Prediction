@@ -80,3 +80,14 @@ Titanic-Prediction/
 ## 👩‍💻 Project
 
 Developed as part of my learning journey in Data Science and Machine Learning.
+---
+
+## 👩‍💻 Author
+
+**Ahlam Fathi**  
+AI & Data Science Master's Student
+
+- **GitHub:** [Ahlam Fathi](https://github.com/fathiahlam)
+- **LinkedIn:** [Ahlam Fathi](www.linkedin.com/in/ahlam-fathi-308549393)
+
+---
