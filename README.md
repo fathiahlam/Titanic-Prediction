@@ -80,6 +80,7 @@ Titanic-Prediction/
 ## 👩‍💻 Project
 
 Developed as part of my learning journey in Data Science and Machine Learning.
+
 ---
 
 ## 👩‍💻 Author
